@@ -7,5 +7,6 @@ public class Login {
     //전화 문자 인증
     public static void main(String[] args) {
         System.out.println("haha");
+        System.out.println("login complete");
     }
 }
