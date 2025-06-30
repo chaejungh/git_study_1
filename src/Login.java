@@ -9,6 +9,8 @@ public class Login {
         System.out.println("haha");
         System.out.println("login complete");
         System.out.println("안녕 정호야 난 다희야");
+        System.out.println("굿모닝입니다 누나");
         //다희
+
     }
 }
